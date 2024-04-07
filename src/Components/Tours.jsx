@@ -10,7 +10,7 @@ const Tours = (props) => {
     return (
         <div className='container'>
             <div>
-                <h2 className="title">Plan With Love</h2>
+                <h2 className="title">Plan With Ashu</h2>
             </div>
 
             <div className="cardsContainer">
